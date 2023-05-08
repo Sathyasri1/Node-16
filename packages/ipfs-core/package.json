@@ -79,7 +79,7 @@
     "@ipld/dag-cbor": "^8.0.0",
     "@ipld/dag-json": "^9.0.0",
     "@ipld/dag-pb": "^3.0.0",
-    "@libp2p/bootstrap": "^5.0.0",
+    "@libp2p/bootstrap": "^8.0.0",
     "@libp2p/crypto": "^1.0.0",
     "@libp2p/delegated-content-routing": "^3.0.0",
     "@libp2p/delegated-peer-routing": "^3.0.0",
