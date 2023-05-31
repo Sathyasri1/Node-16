@@ -77,7 +77,7 @@
     "@chainsafe/libp2p-noise": "^10.0.0",
     "@ipld/car": "^5.0.0",
     "@ipld/dag-cbor": "^8.0.0",
-    "@ipld/dag-json": "^9.0.0",
+    "@ipld/dag-json": "^10.1.0",
     "@ipld/dag-pb": "^3.0.0",
     "@libp2p/bootstrap": "^5.0.0",
     "@libp2p/crypto": "^1.0.0",
