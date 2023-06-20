@@ -70,7 +70,7 @@
     "@libp2p/crypto": "^1.0.0",
     "@libp2p/interface-peer-id": "^1.0.4",
     "@libp2p/interfaces": "^3.0.3",
-    "@libp2p/peer-id": "^1.1.10",
+    "@libp2p/peer-id": "^2.0.4",
     "@libp2p/peer-id-factory": "^1.0.10",
     "@libp2p/websockets": "^5.0.0",
     "@multiformats/multiaddr": "^11.0.0",
